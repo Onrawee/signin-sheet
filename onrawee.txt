@@ -1,1 +1,7 @@
-Olivia loves her dog
+Olivia loves her dog.
+
+Her dog is a 6 years old pomeranian.
+
+His name is Jasper.
+
+Jasper loves doggie ice cream!
